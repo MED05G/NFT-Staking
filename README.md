@@ -1,7 +1,5 @@
 # NFT-Staking-
 Implementation of NFT staking function on solana. 
-# NFT Pledge Project
-
 This project allows users to pledge NFTs and receive tokens in return. The `pledge_nft` function generates a random value and updates the global state and sale information.
 
 ## Features
