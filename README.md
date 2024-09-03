@@ -26,9 +26,9 @@ This project allows users to pledge NFTs and receive tokens in return. The `pled
 
 Proprietary License
 
-This software is the property of [Your Company/Name] and is protected by copyright law. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited.
+This software is the property of PIIG and is protected by copyright law. Unauthorized copying, distribution, modification, or use of this software is strictly prohibited.
 
-Permission to use this software is granted only to individuals or entities who have obtained a valid license from [Your Company/Name]. Any other use is prohibited.
+Permission to use this software is granted only to individuals or entities who have obtained a valid license from PIIG. Any other use is prohibited.
 
 For inquiries about licensing, please contact us official@piig.me .
 
