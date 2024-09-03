@@ -1,4 +1,4 @@
-# NFT-Staking-
+# NFT-Staking
 Implementation of NFT staking function on solana. 
 This project allows users to pledge NFTs and receive tokens in return. The `pledge_nft` function generates a random value and updates the global state and sale information.
 
@@ -30,6 +30,6 @@ This software is the property of [Your Company/Name] and is protected by copyrig
 
 Permission to use this software is granted only to individuals or entities who have obtained a valid license from [Your Company/Name]. Any other use is prohibited.
 
-For inquiries about licensing, please contact [Your Contact Information].
+For inquiries about licensing, please contact us official@piig.me .
 
-© 2024 [Your Company/Name]. All rights reserved.
+© 2024 PIIG. All rights reserved.
